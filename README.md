@@ -1,4 +1,4 @@
-# Bash-Scripts
+# Bash Scripts
 
 ## autoupdater.sh
 Use as a cron job to automatically update, works with a discord webhook. Automatically restarts when needed.
