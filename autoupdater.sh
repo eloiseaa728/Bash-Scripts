@@ -1,3 +1,4 @@
+#!/bin/bash
 WEBHOOK_URL="https://discord.com/api/webhooks/846159452020801577/yj9910XSoHkQLXdupKtnxZ_hyc-DRvMCAyrCYBvvt5MrURBsTX7z_X90vcn71AHDWc4V"
 apt update
 
